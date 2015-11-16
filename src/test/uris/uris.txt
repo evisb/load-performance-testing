@@ -1,1 +1,1 @@
-:8080/easy-invoicing
+/easy-invoicing/

@@ -19,7 +19,7 @@
   <properties>
     <webapp.protocol>http</webapp.protocol>
     <webapp.host>appservereb.cloudapp.net</webapp.host>
-    <webapp.port></webapp.port>
+    <webapp.port>8080</webapp.port>
     <webapp.uris>${project.basedir}/src/test/uris/uris.txt</webapp.uris>
     <jmeter.analysis.maven.plugin.version>1.0.4</jmeter.analysis.maven.plugin.version>
     <test.duration>30</test.duration>
