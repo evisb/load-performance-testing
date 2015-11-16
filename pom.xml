@@ -18,7 +18,7 @@
 
   <properties>
     <webapp.protocol>http</webapp.protocol>
-    <webapp.host>appservereb.cloudapp.net:8080/easy-invoicing</webapp.host>
+    <webapp.host>appservereb.cloudapp.net:8080</webapp.host>
     <webapp.port></webapp.port>
     <webapp.uris>${project.basedir}/src/test/uris/uris.txt</webapp.uris>
     <jmeter.analysis.maven.plugin.version>1.0.4</jmeter.analysis.maven.plugin.version>
